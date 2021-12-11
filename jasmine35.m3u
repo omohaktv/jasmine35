@@ -1,743 +1,744 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RTL.png" group-title="DE| ALLGEMEINES",|DE|- RTL HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51326
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RTL2HD.png" group-title="DE| ALLGEMEINES",|DE|- RTL2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51327
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RTL_Living.png" group-title="DE| ALLGEMEINES",|DE|- RTL Living
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51328
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PROSIEBENHD.png" group-title="DE| ALLGEMEINES",|DE|- Prosieben HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51329
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PROSIEBENMAXXHD.png" group-title="DE| ALLGEMEINES",|DE|- Pro7 MAXX HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51330
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/3SAT.png" group-title="DE| ALLGEMEINES",|DE|-  3sat HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51331
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SAT1HD.png" group-title="DE| ALLGEMEINES",|DE|- Sat1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51332
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SAT1GOLDHD.png" group-title="DE| ALLGEMEINES",|DE|- SAT1 Gold HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51333
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ZDFHD.png" group-title="DE| ALLGEMEINES",|DE|- ZDF HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51334
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DASERSTE(ARD).png" group-title="DE| ALLGEMEINES",|DE|- DAS ERSTE HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51335
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DASERSTE(ARD).png" group-title="DE| ALLGEMEINES",|DE|- Das Erste
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51336
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/n24.png" group-title="DE| ALLGEMEINES",|DE|- N24 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51337
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/KABEL1HD.png" group-title="DE| ALLGEMEINES",|DE|-  Kabel eins FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51338
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/KABEL1HD.png" group-title="DE| ALLGEMEINES",|DE|- Kabel eins HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51339
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/KABEL1HD.png" group-title="DE| ALLGEMEINES",|DE|- Kabel 1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51340
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ZDFHD.png" group-title="DE| ALLGEMEINES",|DE|- ZDF Info
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51341
 #EXTINF:-1 group-title="DE| ALLGEMEINES",|DE| SWR HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/273779
 #EXTINF:-1 group-title="DE| ALLGEMEINES",|DE| RBB BRANDENBURG HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/273778
 #EXTINF:-1 group-title="DE| ALLGEMEINES",|DE| RBB BERLIN HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/273777
 #EXTINF:-1 group-title="DE| ALLGEMEINES",|DE| WDR HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/273776
 #EXTINF:-1 group-title="DE| ALLGEMEINES",|DE| WDR HD WUPPERTAL
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/273775
 #EXTINF:-1 group-title="DE| ALLGEMEINES",|DE| WDR HD DUISBURG
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/273774
 #EXTINF:-1 group-title="DE| ALLGEMEINES",|DE| WDR HD BONN
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/273773
 #EXTINF:-1 group-title="DE| ALLGEMEINES",|DE| WDR HD AACHEN
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/273772
 #EXTINF:-1 group-title="DE| ALLGEMEINES",|DE| MDR HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/273771
 #EXTINF:-1 group-title="DE| ALLGEMEINES",|DE| NDR HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/273770
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ATV.png" group-title="DE| ALLGEMEINES",|DE|- ATV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51342
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/E!ENTERTAINMENT.png" group-title="DE| ENTERTAINMENT",|DE|- E Entertainm
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51343
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RTLNITRO.png" group-title="DE| ALLGEMEINES",|DE|- RTL Nitro
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51344
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RTLPLUS.png" group-title="DE| ALLGEMEINES",|DE|- RTL Plus
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51345
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SUPERRTL.png" group-title="DE| ALLGEMEINES",|DE|- Super RTL HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51346
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ZEEONE.png" group-title="DE| ENTERTAINMENT",|DE|- Zee One
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51347
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/KINOWELTTV.png" group-title="DE| ALLGEMEINES",|DE|- Kinowelt TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51348
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ARD.png" group-title="DE| ALLGEMEINES",|DE|- ARD-Alpha
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51349
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EURONEWS.png" group-title="DE| ALLGEMEINES",|DE|- EuroNews HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51350
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/HEIMATKANAL.png" group-title="DE| ALLGEMEINES",|DE|- Heimatkanal HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51351
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/JUKEBOX.png" group-title="DE| ALLGEMEINES",|DE|- Jukebox HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51352
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NDR.png" group-title="DE| ALLGEMEINES",|DE|- NDR HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51353
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ONETV.png" group-title="DE| ALLGEMEINES",|DE|- ONE HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51354
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ARTEHD.png" group-title="DE| ALLGEMEINES",|DE|- arte HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51355
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ORF%201.png" group-title="DE| ALLGEMEINES",|DE|- ORF Eins
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51356
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ORF%202.png" group-title="DE| ALLGEMEINES",|DE|- ORF II
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51357
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ORF%203.png" group-title="DE| ALLGEMEINES",|DE|- ORF III
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51358
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/3SAT.png" group-title="DE| ALLGEMEINES",|DE|- 3Sat
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51359
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NTV.png" group-title="DE| ALLGEMEINES",|DE|- N-TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51360
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYARTSHD.png" group-title="DE| ALLGEMEINES",|DE|- Sky Arts
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51361
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TELE5HD.png" group-title="DE| ALLGEMEINES",|DE|- Tele 5
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51362
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ZDFNEO.png" group-title="DE| ALLGEMEINES",|DE|- ZDF Neo
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51363
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ANIXEHD.png" group-title="DE| ALLGEMEINES",|DE|- ANIXE
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51364
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/AXNHD.png" group-title="DE| ENTERTAINMENT",|DE|- AXN HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51366
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/FOXHD.png" group-title="DE| ENTERTAINMENT",|DE|- Fox HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51367
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TNTSERIEHD.png" group-title="DE| ENTERTAINMENT",|DE|- TNT Serie HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51368
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/E!ENTERTAINMENT.png" group-title="DE| ENTERTAINMENT",|DE|-  E Entertainm FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51369
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/E!ENTERTAINMENT.png" group-title="DE| ENTERTAINMENT",|DE|- E Entertaiment
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51370
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RTLPASSIONHD.png" group-title="DE| ENTERTAINMENT",|DE|- RTL Passion
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51371
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RTLCRIMEHD.png" group-title="DE| ENTERTAINMENT",|DE|- RTL Crime HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51372
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/VOX.png" group-title="DE| ENTERTAINMENT",|DE|- Vox HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51373
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/13THSTREET.png" group-title="DE| ENTERTAINMENT",|DE|-  13th Street HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51374
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SYFY.png" group-title="DE| ENTERTAINMENT",|DE|-  SYFY FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51375
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/13THSTREETHD.png" group-title="DE| ENTERTAINMENT",|DE|- 13th Street HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51376
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SYFYHD.png" group-title="DE| ENTERTAINMENT",|DE|- SyFy HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51377
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/HISTORYHD.png" group-title="DE| ENTERTAINMENT",|DE|- History FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51378
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/FOXSERIE.png" group-title="DE| ENTERTAINMENT",|DE|-  Fox Serie HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51379
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SIXXHD.png" group-title="DE| ENTERTAINMENT",|DE|- Sixx HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51380
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAHD.png" group-title="DE| CINEMA",|DE|-  Sky Cinema FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51382
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAHD.png" group-title="DE| CINEMA",|DE|- Sky Cinema HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51383
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAHD.png" group-title="DE| CINEMA",|DE|- Sky Cinema +1 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51384
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAHD.png" group-title="DE| CINEMA",|DE|- Sky Cinema +1HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51385
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMA+24HD.png" group-title="DE| CINEMA",|DE|- SKY Cinema  +24 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51386
 #EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/GERMANY/SKYCINEMA+24HD.png" group-title="DE| CINEMA",|DE|- Sky Cinema  +24 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51387
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAACTIONHD.png" group-title="DE| CINEMA",|DE|-  Sky Cinema Action FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51388
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAACTIONHD.png" group-title="DE| CINEMA",|DE|- Sky Cinema Action HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51389
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAFAMILYHD.png" group-title="DE| CINEMA",|DE|-  Sky Cinema Family FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51390
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMACOMEDY.png" group-title="DE| CINEMA",|DE|- Sky Cinema Comedy HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51391
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAEMOTION.png" group-title="DE| CINEMA",|DE|- Sky Cinema Emotion HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51392
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAHITSHD.png" group-title="DE| CINEMA",|DE|- Sky Cinema Hits FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51393
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAHITSHD.png" group-title="DE| CINEMA",|DE|- Sky Cinema Hits HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51394
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMANOSTALGIE.png" group-title="DE| CINEMA",|DE|- Sky Cinema Nostalgie
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51395
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYKRIMI.png" group-title="DE| CINEMA",|DE|- Sky Krimi
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51396
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYATLANTICHD.png" group-title="DE| CINEMA",|DE|- Sky Atlantic FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51397
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYATLANTICHD.png" group-title="DE| CINEMA",|DE|- Sky Atlantic HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51398
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TNTSERIEHD.png" group-title="DE| CINEMA",|DE|-  TNT Serie FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51399
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082REDLINECLIENT
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TNTFILM.png" group-title="DE| CINEMA",|DE|- TNT Film
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51400
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TNTCOMEDYHD.png" group-title="DE| CINEMA",|DE|- TNT Comedy FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51401
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/UNIVERSALTV.png" group-title="DE| CINEMA",|DE|- Universal FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51402
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/UNIVERSALTV.png" group-title="DE| CINEMA",|DE|- Universal HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51403
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/KINOWELTTV.png" group-title="DE| CINEMA",|DE|-  Sky Kino Welt (Horror)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51404
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/ios/1220370038/4b5f98381728ffe75f48529362a13be8" group-title="DE| CINEMA",|DE|-  Sky Kino Welt (Comedy
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51405
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/KINOWELTTV.png" group-title="DE| CINEMA",|DE|-  Sky Kino Welt (Krimi)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51406
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/KINOWELTTV.png" group-title="DE| CINEMA",|DE|-  Sky Kino Welt (Familie)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51407
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/KINOWELTTV.png" group-title="DE| CINEMA",|DE|-  Sky Kino Welt (Animation)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51408
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/KINOWELTTV.png" group-title="DE| CINEMA",|DE|-  Sk Kino Welt (Science-Fiction)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51409
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/KINOWELTTV.png" group-title="DE| CINEMA",|DE|-  sky Kino Welt (Drama)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51410
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/KINOWELTTV.png" group-title="DE| CINEMA",|DE|-   Sky Kino Welt (Action)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51411
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAHITSHD.png" group-title="DE| CINEMA",|DE|-  Sky Kino Hits (2019)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51412
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYARTSHD.png" group-title="DE| CINEMA",|DE|- Sky Arts FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51413
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSELECT1HD.png" group-title="DE| CINEMA",|DE|- Sky Select 1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51414
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSELECT2HD.png" group-title="DE| CINEMA",|DE|- Sky Select 2 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51415
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSELECT3HD.png" group-title="DE| CINEMA",|DE|- Sky Select 3 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51416
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSELECT4HD.png" group-title="DE| CINEMA",|DE|- Sky Select 4 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51417
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSELECT5HD.png" group-title="DE| CINEMA",|DE|- Sky Select 5 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51418
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Sky Select 1 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220133
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Sky Select 2 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220134
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Sky Select 3 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220135
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Sky Select 4 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220136
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Sky Select 5 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220137
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Sky Select 6 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220138
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Sky Select 7 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220139
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Sky Select 8 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220140
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle PJ MASKS HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220132
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Peppa Wutz HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220131
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Masha und der B HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220130
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Entdeckernatur HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220129
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Entdeckernatur 4K
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220128
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema Thriller HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220127
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema Spaghetti Western HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220126
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema Sci-Fi HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220125
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema Romantisch HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220124
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema Religion HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220123
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema Premiere HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220122
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema Mythologie HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220121
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema Lheln HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220120
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema Komodie HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220119
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema KINOSAAL
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220118
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema Horror HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220117
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema Geschichte HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220116
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema Fantasie FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220115
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema Familie FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220114
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema Drama HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220113
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema Biografie HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220112
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema Animation HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220111
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema Aktion HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220110
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema Abenteuer HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220109
 #EXTINF:-1 group-title="DE| CINEMA",|DE| Eagle Cinema 007 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/220108
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTNEWSHD.png" group-title="DE| SPORTS",|DE|- Sky Sport News
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51502
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTAUSTRIA.png" group-title="DE| SPORTS",|DE|- Sky Sport Austria
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51503
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORT1.png" group-title="DE| SPORTS",|DE|- Sky Sport 1FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51504
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORT1.png" group-title="DE| SPORTS",|DE|- Sky Sport HD1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51505
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORT2HD.png" group-title="DE| SPORTS",|DE|- Sky Sport 2 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51506
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORT2HD.png" group-title="DE| SPORTS",|DE|-  Sky Sport HD2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51507
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DAZN1BARFHD.png" group-title="DE| SPORTS",|DE|- DAZN 1 BAR UHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51508
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/dazn.png" group-title="DE| SPORTS",|DE|- DAZN 1HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51509
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DAZN2BARFHD.png" group-title="DE| SPORTS",|DE|- DAZN 2 BAR UHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51510
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DAZN2BARFHD.png" group-title="DE| SPORTS",|DE|- DAZN 2HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51511
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MotorVision.de.png" group-title="DE| SPORTS",|DE|- Motorvision
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51512
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082REDLINECLIENT
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SPORT1+HD.png" group-title="DE| SPORTS",|DE|- Sport 1 + HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51513
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EUROSPORT1HD.png" group-title="DE| SPORTS",|DE|- Eurosport 1HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51514
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EUROSPORT2HD.png" group-title="DE| SPORTS",|DE|-  Eurosport 2 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51515
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ORFSPORT.png" group-title="DE| SPORTS",|DE|- Orf Sport
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51516
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTAUSTRIA.png" group-title="DE| SPORTS",|DE|- Sky Sport Austria FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51517
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYBUNDESLIGA1FHD.png" group-title="DE| SPORTS",|DE|-  Sky Bundesliga HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51518
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYBUNDESLIGA1FHD.png" group-title="DE| SPORTS",|DE|- Sky Sport  Bundesliga HD1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51519
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYBUNDESLIGA2FHD.png" group-title="DE| SPORTS",|DE|- Sky Sport Bundesliga 2  (Match Time)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51521
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082REDLINECLIENT
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYBUNDESLIGA3FHD.png" group-title="DE| SPORTS",|DE|- Sky Sport Bundesliga 3 (Match Time)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51522
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYBUNDESLIGA4FHD.png" group-title="DE| SPORTS",|DE|- Sky Sport Bundesliga 4 (Match Time)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51523
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYBUNDESLIGA5FHD.png" group-title="DE| SPORTS",|DE|- Sky Sport Bundesliga 5 (Match Time)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51524
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYBUNDESLIGA6FHD.png" group-title="DE| SPORTS",|DE|- Sky Sport Bundesliga 6 (Match Time)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51525
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYBUNDESLIGA7FHD.png" group-title="DE| SPORTS",|DE|- Sky Sport Bundesliga 7 (Match Time)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51526
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYBUNDESLIGA8FHD.png" group-title="DE| SPORTS",|DE|- Sky Sport Bundesliga 8 (Match Time)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51527
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYBUNDESLIGA9FHD.png" group-title="DE| SPORTS",|DE|- Sky Sport Bundesliga 9
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51528
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYBUNDESLIGA10FHD.png" group-title="DE| SPORTS",|DE|- Sky Sport Bundesliga 10
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51529
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORT3.png" group-title="DE| SPORTS",|DE|- Sky Sport 3 (Only ON by live event)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51530
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/sky%20sport%204.png" group-title="DE| SPORTS",|DE|- Sky Sport 4 (Only ON by live event)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51531
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/skysport5.png" group-title="DE| SPORTS",|DE|- Sky Sport  5 (Only ON by live event)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51532
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SkySport6.de.png" group-title="DE| SPORTS",|DE|- Sky Sport 6 (Only ON by live event)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51533
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SkySport7.de.png" group-title="DE| SPORTS",|DE|- Sky Sport 7 (Only ON by live event)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51534
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SkySport8.de.png" group-title="DE| SPORTS",|DE|- Sky Sport 8 (Only ON by live event)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51535
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|- Telekom Fussball 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51537
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|- Telekom Fussball 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51538
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/1/5/a/15ac091efc9a4ff0ebc62a21f0f15fb2_icon.png?w=256" group-title="DE| SPORTS",|DE|- Telekom Fussball 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51539
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|- Telekom Fussball 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51540
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|- Telekom Fussball 5
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51541
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|- Telekom Fussball 6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51542
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|- Telekom Fussball 7
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51543
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|- Telekom Fussball 8
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51544
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/bayernt.png" group-title="DE| SPORTS",|DE|-  FC Bayern TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51546
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/bayernt.png" group-title="DE| SPORTS",|DE|-  FC Bayern TV HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51547
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|-  Telekom   Frauen Bundesliga HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51548
 #EXTINF:-1 group-title="DE| SPORTS",|DE|SKY SPORT F1 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/271296
 #EXTINF:-1 group-title="DE| SPORTS",|DE|SKY SPORT F1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/271295
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|-  Telekom   BBL Sport 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51553
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|-  Telekom   BBL Sport 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51554
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|-  Telekom   BBL Sport 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51555
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|-  Telekom   BBL Sport 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51556
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|-  Telekom   DEL Sport 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51557
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|-  Telekom   DEL Sport 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51558
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|-  Telekom   DEL Sport 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51559
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|-  Telekom   DEL Sport 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51560
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|-  Telekom   DEL Sport 5
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51561
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|-  Telekom   DEL Sport 6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51562
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sportklub.png" group-title="DE| SPORTS",|DE|-  Telekom   DEL Sport 7
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51563
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NATGEOHD.png" group-title="DE| DOCUMENTARY",|DE|-  Nat Geo HD
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51565
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NATGEOHD.png" group-title="DE| DOCUMENTARY",|DE|- National Geographic HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51566
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NGCWILDHD.png" group-title="DE| DOCUMENTARY",|DE|- Nat Geo Wild FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51567
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NGCWILDHD.png" group-title="DE| DOCUMENTARY",|DE|- NatGeo Wild HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51568
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DISCOVERYCHANNEL.png" group-title="DE| DOCUMENTARY",|DE|- Discovery FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51569
 #EXTINF:-1 tvg-logo="http://185.165.243.195/loghttp://185.165.243.195/LOGO%20DREAMTV%204K/DISCOVERYCHANNEL.pngo_plus/NEDERLAND-OLD/DISCOVERY.png" group-title="DE| DOCUMENTARY",|DE|- Discovery HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51570
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TLC.png" group-title="DE| DOCUMENTARY",|DE|- TLC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51571
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DMAX.png" group-title="DE| DOCUMENTARY",|DE|- Dmax
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51572
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/A&E.png" group-title="DE| DOCUMENTARY",|DE|- A.E HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51573
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SPIEGELGESCHICHTE.png" group-title="DE| DOCUMENTARY",|DE|- Spiegel Geschichte HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51574
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NICKELODEONHD.png" group-title="DE| KIDS",|DE|- NICKELODEON HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51576
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DISNEYCHANNEL.png" group-title="DE| KIDS",|DE|- Disney Channel
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51577
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BOOMERANGHD.png" group-title="DE| KIDS",|DE|- Boomerang
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51578
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CARTOONNETWORK.png" group-title="DE| KIDS",|DE|- Cartoon Network
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51579
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DisneyCinemagic.de.png" group-title="DE| KIDS",|DE|-  Disney Cinemagic FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51580
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/COMEDYCENTRAL.png" group-title="DE| CINEMA",|DE|- Comedy Central HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51581
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Toggo.png" group-title="DE| KIDS",|DE|- Toggo Plus
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51582
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DISNEYJUNIORHD.png" group-title="DE| KIDS",|DE|- Junior
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51583
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/KIKA.png" group-title="DE| KIDS",|DE|- KIKA FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51584
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/KIKA.png" group-title="DE| KIDS",|DE|- KiKa HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51585
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DISNEYJUNIORHD.png" group-title="DE| KIDS",|DE|- Disney Junior HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51586
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DISNEYXDHD.png" group-title="DE| KIDS",|DE|- Disney XD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51587
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DELUXEMUSICHD.png" group-title="DE| ENTERTAINMENT",|DE|-   Deluxe Music HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51588
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CLASSICA.png" group-title="DE| ENTERTAINMENT",|DE|-  Classica HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51589
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EUROSPORT2XTRAHD.png" group-title="DE| ALLGEMEINES",|DE|- Eurosport 2 Xtra HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51590
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ORF%201.png" group-title="DE| ALLGEMEINES",|AT|   ORF 1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:httpREDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51591
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ORF%202.png" group-title="DE| ALLGEMEINES",|AT|   ORF II HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51592
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ORF%203.png" group-title="DE| ALLGEMEINES",|AT|   ORF III HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51593
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ATV.png" group-title="DE| ALLGEMEINES",|AT|   ATV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51594
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ATV.png" group-title="DE| ALLGEMEINES",|AT|   ATV HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51595
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/atv2.png" group-title="DE| ALLGEMEINES",|AT|   ATV2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51596
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SCHAU.png" group-title="DE| ALLGEMEINES",|AT|   SCHAU TV HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51597
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/R9.png" group-title="DE| ALLGEMEINES",|AT|   R9 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51598
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ServusTV.png" group-title="DE| ALLGEMEINES",|AT|   SERVUS TV  HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51599
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/oe24t.png" group-title="DE| ALLGEMEINES",|AT|   oe24 TV HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51600
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/LTV.png" group-title="DE| ALLGEMEINES",|AT|   L:TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51601
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RIC.png" group-title="DE| ALLGEMEINES",|AT|   RiC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51602
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Folx.png" group-title="DE| ALLGEMEINES",|AT|   Folx TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51603
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/VOXHD.png" group-title="DE| ALLGEMEINES",|AT|   VOX
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51604
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/KABEL1HD.png" group-title="DE| ALLGEMEINES",|AT|   KABEL EINS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51605
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/KABEL1HD.png" group-title="DE| ALLGEMEINES",|AT|   KABEL EINS DOKU
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51606
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SAT1HD.png" group-title="DE| ALLGEMEINES",|AT|   SAT 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51607
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SAT1HD.png" group-title="DE| ALLGEMEINES",|AT|   SAT 1 GOLD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51608
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SIXXHD.png" group-title="DE| ALLGEMEINES",|AT|   SIXX AUSTRIA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51609
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PROSIEBENHD.png" group-title="DE| ALLGEMEINES",|AT|   PROSIEBEN
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51610
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PROSIEBENMAXXHD.png" group-title="DE| ALLGEMEINES",|AT|   PRO 7 MAXX
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51611
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RTLHD.png" group-title="DE| ALLGEMEINES",|AT|   RTL
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51612
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RTL2HD.png" group-title="DE| ALLGEMEINES",|AT|   RTL 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51613
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RTLPLUS.png" group-title="DE| ALLGEMEINES",|AT|   RTL PLUS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51614
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:REDLINECLIENT
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RTLNITRO.png" group-title="DE| ALLGEMEINES",|AT|   NITRO
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51615
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DMAXHD.png" group-title="DE| ALLGEMEINES",|AT|   DMAX
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51616
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:REDLINECLIENT
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NTV.png" group-title="DE| ALLGEMEINES",|AT|   N:TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51617
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/COMEDY-CENTRAL.png" group-title="DE| ALLGEMEINES",|AT|   COMEDY CENTRAL/VIVA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51618
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NICKELODEONEUROPE.png" group-title="DE| KIDS",|AT|   NICKELODEON
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51619
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SUPERRTL.png" group-title="DE| ALLGEMEINES",|AT|   SUPER RTL
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51620
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/GOTV.png" group-title="DE| ALLGEMEINES",|AT|   GoTV Neu
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dream4k.co:2082/DM_SnappyGermany/dF2cTDfe/51621
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Hope_Channel_Africa_Big.png" group-title="DE| ALLGEMEINES",|AT|   HOPE Channel HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
